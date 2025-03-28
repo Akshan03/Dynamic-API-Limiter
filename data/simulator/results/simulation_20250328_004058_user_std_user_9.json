@@ -1,0 +1,30 @@
+{
+  "user_id": "std_user_9",
+  "user_type": "STD",
+  "profile": "standard_light",
+  "requests_sent": 13,
+  "requests_succeeded": 13,
+  "requests_failed": 0,
+  "requests_rate_limited": 0,
+  "response_times": [
+    1.1773245334625244,
+    0.022008419036865234,
+    0.3007991313934326,
+    3.24019193649292,
+    1.2276792526245117,
+    0.664344072341919,
+    0.6673581600189209,
+    0.37095022201538086,
+    0.2961268424987793,
+    0.20651626586914062,
+    0.4952385425567627,
+    0.3469126224517822,
+    0.24956989288330078
+  ],
+  "endpoints": {
+    "resources": 8,
+    "rate-limit-status": 2,
+    "ping": 3
+  },
+  "anomalous": false
+}
