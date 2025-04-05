@@ -216,6 +216,21 @@ The system employs two main machine learning components:
 
 The dashboard provides real-time visualization of:
 
+![Dashboard Overview](images/dashboard_overview.png)
+*Dashboard: System Overview, Recent Traffic, User/Endpoint Distribution*
+
+![Token Buckets](images/dashboard_token_buckets.png)
+*Dashboard: Standard vs. Premium User Token Bucket Levels and History*
+
+![Traffic Analysis](images/dashboard_traffic_analysis.png)
+*Dashboard: Traffic Patterns Heatmap and Anomaly Detection Timeline*
+
+![ML Analysis 1](images/dashboard_ml_analysis_1.png)
+*Dashboard: Response Time Analysis and ML Model Training History*
+
+![ML Analysis 2](images/dashboard_ml_analysis_2.png)
+*Dashboard: Traffic Prediction Model*
+
 1. **System Overview**: 
    - Recent request counts
    - Rate limited request percentage
